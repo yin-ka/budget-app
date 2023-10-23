@@ -4,6 +4,12 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.2.2'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem "devise"
+gem 'letter_opener', group: :development
+gem 'cancancan'
+gem 'font-awesome-sass'
+gem 'rails-controller-testing'
+gem 'rspec-rails'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.8'
@@ -51,8 +57,7 @@ gem 'bootsnap', require: false
 # gem "image_processing", "~> 1.2"
 
 group :development, :test do
-  # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
-  gem 'debug', platforms: %i[mri mingw x64_mingw]
+  gem 'shoulda-matchers'
 end
 
 group :development do
