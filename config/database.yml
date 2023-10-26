@@ -15,6 +15,7 @@ test:
   password: 102110
 
 production:
+  url: <%= ENV["DATABASE_URL"] %>
   adapter: postgresql
   encoding: unicode
   database: budget_app_prod
