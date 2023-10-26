@@ -1,7 +1,6 @@
 databases:
   - name: postgres
-    databaseName: budget_app_prod
-    user: sholotanyusuf
+    ipAllowList:[]
 
 services:
   - type: web
@@ -16,3 +15,9 @@ services:
           property: connectionString
       - key: RAILS_MASTER_KEY
         sync: false
+
+- type: redis
+  name: redis
+  ipAllowList:[]
+plan: free
+maxmemoryPolicy: noeviction
