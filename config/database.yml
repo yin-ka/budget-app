@@ -1,0 +1,24 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: budget_app_dev
+  pool: 5
+  username: sholotanyusuf
+  password: 102110
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: budget_app_test
+  pool: 5
+  username: sholotanyusuf
+  password: 102110
+
+production:
+  url: <%= ENV["DATABASE_URL"] %>
+  adapter: postgresql
+  encoding: unicode
+  database: budget_app_prod
+  pool: 5
+  username: sholotanyusuf
+  password: 102110
