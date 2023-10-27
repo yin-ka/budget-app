@@ -76,7 +76,7 @@
 
 ## 📺 Presentation <a name="presentation"></a>
 
-- [Link to video presentation](https://www.loom.com/share/d86c98f540cd4af1bd7662a93750d522?sid=bbb8c7bd-2b05-4665-ae98-2200de879c72)
+- [Link to video presentation](https://www.loom.com/share/3cc585d1ea2f4234bbbaba885d78f564?sid=da63a824-c5d2-4e77-b62b-f729840c2cfc)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
