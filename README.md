@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3><b>Budget App</b></h3>
+  <h3><b>Budget Management App</b></h3>
 
 </div>
 
@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Budget App ](#-budget-app-)
+- [📖 Budget Management App ](#-budget-management-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 Budget Management App <a name="about-project"></a>
 
-**Budget App** is a web-based application designed to assist users in categorizing and effectively managing their transactions, making expense tracking a hassle-free experience. By using this user-friendly tool, you can stay organized and gain valuable insights into your spending habits.
+**Budget Management App** is a web-based application designed to assist users in categorizing and effectively managing their transactions, making expense tracking a hassle-free experience. By using this user-friendly tool, you can stay organized and gain valuable insights into your spending habits.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,13 +70,13 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]()
+- [Live Demo](https://my-budget-app-18d690ad2bb4.herokuapp.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📺 Presentation <a name="presentation"></a>
 
-- [Link to video presentation]()
+- [Link to video presentation](https://www.loom.com/share/d86c98f540cd4af1bd7662a93750d522?sid=bbb8c7bd-2b05-4665-ae98-2200de879c72)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
